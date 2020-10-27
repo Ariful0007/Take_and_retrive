@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "642156583355",
+    "firebase_url": "https://take-and-retrive.firebaseio.com",
+    "project_id": "take-and-retrive",
+    "storage_bucket": "take-and-retrive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642156583355:android:04cd8c15127baf45484c9e",
+        "android_client_info": {
+          "package_name": "com.example.take_and_retrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642156583355-8cb9ps982ceu11njsb6jjih80485ire8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ5bw3JYytpNyLOMZiSR1ZsAqJ0OdeRCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642156583355-8cb9ps982ceu11njsb6jjih80485ire8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
